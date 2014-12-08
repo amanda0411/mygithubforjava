@@ -11,4 +11,8 @@
 	<h1>TEST FOR Java git</h1>
 	<h2>TEST FOR Java git</h2>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 7600e47928f4235fb625396486f4c054013f9b65
